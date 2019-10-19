@@ -1,0 +1,23 @@
+.centralizar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+  }
+
+  h1 {
+    color: rgb(170, 230, 210);
+    text-align: center;
+    font-size: 30px;
+    
+  }
+
+  #container {
+    text-align: center;
+font-family: fantasy;
+font-size: 20px;
+    color: #20B2AA;
+      background-color: rgb(170, 230, 210); 
+   
+
+      
+  }
