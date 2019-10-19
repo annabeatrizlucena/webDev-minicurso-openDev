@@ -14,6 +14,8 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Anna Beatriz Lucena Lira](https://annabeatrizlucena.github.io/)
+
 
 # Links Úteis
 
